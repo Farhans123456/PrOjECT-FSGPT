@@ -1,4 +1,4 @@
-Here's a sample `README.md` for your project FSGPT:
+
 
 ---
 
@@ -29,7 +29,7 @@ FSGPT: FSGPT will f***ing tell you to grab the nearest f***ing laptop and smash 
 1. **Install the Project**
    Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/username/FSGPT.git
+   git clone (https://github.com/Farhans123456/PrOjECT-FSGPT.git)
    cd FSGPT
    ```
 
